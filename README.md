@@ -1,13 +1,12 @@
 # Nashville-Housing-Data-Cleaning
 
-Source:
+# Source:
 https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 
-Task:
+# Task:
 The task of this project is to clean the Nashville Housing Data. 
 The data contained duplicates, Nulls and Grouped values that needs to be in separate columns.
 
-Methods:
 Steps taken to complete this task include the following:
 
 1. Import the raw Excel data into MSSQL.
